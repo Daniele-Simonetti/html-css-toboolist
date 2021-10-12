@@ -49,18 +49,26 @@ h1{
   border-radius: 15px;
   border-color: #abe3f4;
 }
-
+/* buttons */
 .header-butt-white{
   background-color: #fffefe;
   color: #dadddd;
   border-color: #dadddd;
+  width: 15%;
 }
-
 .header-butt-blue{
   background-color: #15aaf6;
   color: #fffefe;
+  width: 13%;
 }
 
-.test{
+.align-butt{
   margin: 20px 0px 5px 60px;
+}
+/* /button */
+
+/* sec main */
+.sec-main{
+  background-color: #fffefe;
+  height: 100%;
 }
