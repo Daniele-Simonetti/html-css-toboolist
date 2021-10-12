@@ -11,15 +11,19 @@ body{
 /* header */
 header{
   height: 100px;
-  background-color: white;
+  background-color: #fffefe;
 }
 
 #logo-img{
   margin: 10px 20px;
   height: 80%;
+  line-height: 100px;
+  vertical-align: middle;
 }
 
 h1{
   display: inline-block;
+  vertical-align: middle;
+  font-size: 4em;
   
 }
