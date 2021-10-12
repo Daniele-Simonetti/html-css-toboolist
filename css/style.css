@@ -89,15 +89,18 @@ h1{
 ul{
   list-style-type: none;
   margin-left: 9px;
-  display: inline;
-}
+  /* display: inline;
+} */
 li{
   font-size: 1em;
   font-weight: 100;
-  display: inline;
-}
+  /* display: inline;
+} */
 
 .edit-tag{
   color: white;
-  background-color: red;
+  background-color: #15aaf6;
+  margin-left: 10px;
+  padding: 5px;
+  border-radius: 10px;
 }
