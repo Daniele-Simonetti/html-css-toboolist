@@ -104,37 +104,36 @@ li{
   padding: 5px;
   border-radius: 10px;
 }
-
 .q-tag{
-  color: ;
-  background-color: #15aaf6;
+  color:white;
+  background-color: #9d72e5;
   margin-left: 10px;
   padding: 5px;
   border-radius: 10px;
 }
 .recr-tag{
   color: white;
-  background-color: #15aaf6;
+  background-color: #64c1a8;
   margin-left: 10px;
   padding: 5px;
   border-radius: 10px;
 }
 .mob-tag{
   color: white;
-  background-color: #15aaf6;
+  background-color: #f39e32;
   margin-left: 10px;
   padding: 5px;
   border-radius: 10px;
 }
 .web-tag{
   color: white;
-  background-color: #15aaf6;
+  background-color: #d963a0;
   margin-left: 10px;
   padding: 5px;
   border-radius: 10px;
 }
 .sales-tag{
-  color: white;
+  color:white;
   background-color: #15aaf6;
   margin-left: 10px;
   padding: 5px;
