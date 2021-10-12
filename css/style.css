@@ -40,13 +40,25 @@ h1{
 /* header sec */
 .sec-header{
   height: 70px;
-  border: 1px solid black;
+  border: 1px solid #f7f8fa;
   border-radius: 10px 10px 0px 0px;
 }
 
-.header-butt{
-  padding: 10px;
-  
+.header-butt-blue, .header-butt-white{
+  padding: 7px;
+  border-radius: 15px;
+  border-color: #abe3f4;
+}
+
+.header-butt-white{
+  background-color: #fffefe;
+  color: #dadddd;
+  border-color: #dadddd;
+}
+
+.header-butt-blue{
+  background-color: #15aaf6;
+  color: #fffefe;
 }
 
 .test{
