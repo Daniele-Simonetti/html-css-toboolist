@@ -5,11 +5,19 @@
 }
 
 body{
-  background-color: red;
+  background-color: #f7f8fa;
+}
+
+/* .container{
+  width: 80%;
+  margin: auto;
+  background-color: #fffefe; */
+
 }
 
 /* header */
 header{
+  border-bottom: 1px solid #fffefe;
   height: 100px;
   background-color: #fffefe;
 }
@@ -25,5 +33,11 @@ h1{
   display: inline-block;
   vertical-align: middle;
   font-size: 4em;
-  
+}
+
+/* main */
+.sec-header{
+  width: 80%;
+  margin: auto;
+  background-color: #fffefe;
 }
