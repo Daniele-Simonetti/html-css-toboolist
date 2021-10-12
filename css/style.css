@@ -96,6 +96,7 @@ li{
   font-weight: 100;
   padding: 15px;
 }
+
 /* tags della lista */
 
 /* editorial */
@@ -141,7 +142,7 @@ li{
 /* sales */
 .sales-tag{
   color:white;
-  background-color: #15aaf6;
+  background-color:lightgreen;
   margin-left: 10px;
   padding: 5px;
   border-radius: 10px;
