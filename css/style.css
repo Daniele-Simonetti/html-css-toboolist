@@ -73,8 +73,14 @@ h1{
 /* sec main */
 .sec-main{
   background-color: #fffefe;
-  border: 5px solid #f7f8fa;
+  border: 1px solid #f7f8fa;
+  border-top: 5px solid #f7f8fa;
   border-radius: 0px 0px 10px 10px;
-  height: 1800px;
+  height: 800px;
+}
 
+.New-Task, .today, .upcoming{
+  margin: 50px 55px;
+  font-weight: bold;
+  font-size: 2em;
 }
