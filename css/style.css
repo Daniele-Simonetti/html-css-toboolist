@@ -70,7 +70,9 @@ h1{
 }
 /* /button */
 
+
 /* sec main */
+
 .sec-main{
   background-color: #fffefe;
   border: 1px solid #f7f8fa;
@@ -83,4 +85,13 @@ h1{
   margin: 50px 55px;
   font-weight: bold;
   font-size: 2em;
+}
+/* unordered list */
+ul{
+  list-style-type: none;
+  margin-left: 9px;
+}
+li{
+  font-size: 1em;
+  font-weight: 100;
 }
